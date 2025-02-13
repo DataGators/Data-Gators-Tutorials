@@ -31,7 +31,7 @@ Make sure you have the following installed on your computer:
 # Data Gators Calendars
 
 ## [Main Calendar](https://calendar.google.com/calendar/u/0/r?cid=Y19lOWY2YjRmZGU3ZjQ5MWZmZjI3NjdjZGJhOGY3N2ZlMmE5MjQxZTViYmFhNDU4NDFkNDAzODI5MmNjMWY3MWZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
-- The below links are used for scheduling appointments, refer to the calendar above to compare with your schedule to determine availability.
+- The below link is used for scheduling appointments, refer to the open hours below the link to compare with your schedule to determine availability.
 
 ## Register for an appointment!
 - [Click here to register!](https://data-gators.com/contacts/calendar/)
