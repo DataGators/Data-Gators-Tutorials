@@ -33,12 +33,12 @@ Make sure you have the following installed on your computer:
 ## [Main Calendar:](https://calendar.google.com/calendar/u/0/r?cid=Y19lOWY2YjRmZGU3ZjQ5MWZmZjI3NjdjZGJhOGY3N2ZlMmE5MjQxZTViYmFhNDU4NDFkNDAzODI5MmNjMWY3MWZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
 - The below links are used for scheduling appointments, refer to the calendar above to compare with your schedule to determine availability.
 
-## Alish (TH 15:00-17:00 EST): https://calendar.app.google/fAYJ55kZqyUbdUMz6
+## Register for an appointment!
+- [Click here to register!](https://data-gators.com/contacts/calendar/)
 
-## Danny (W 15:00-17:00 EST): https://calendar.app.google/wT1G82YjhjRzsGEF8
-
-## Katie (M 12:00-14:00 EST): https://calendar.app.google/btxVaMgE6EPBeoeX9
-
-## Luke (11:00AM-2:00PM EST): 
-
-## Orion (9:00-11:00AM EST): https://calendar.app.google/MweWBV1U1gUaQuAR7
+Below are the hours of our lovely Data Gators.
+## Alish (TH 15:00-17:00 EST)
+## Danny (W 15:00-17:00 EST)
+## Katie (M 12:00-14:00 EST)
+## Luke (11:00AM-2:00PM EST) 
+## Orion (9:00-11:00AM EST)
