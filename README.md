@@ -28,7 +28,7 @@ Make sure you have the following installed on your computer:
 
 # Data Gators Website
 - https://datagators.netlify.app/
-# Data Gators Calendars
+# Data Gators Availaility
 
 ## [Main Calendar](https://calendar.google.com/calendar/u/0/r?cid=Y19lOWY2YjRmZGU3ZjQ5MWZmZjI3NjdjZGJhOGY3N2ZlMmE5MjQxZTViYmFhNDU4NDFkNDAzODI5MmNjMWY3MWZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
 - The below link is used for scheduling appointments, refer to the open hours below the link to compare with your schedule to determine availability.
