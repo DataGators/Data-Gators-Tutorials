@@ -30,7 +30,7 @@ Make sure you have the following installed on your computer:
 - https://datagators.netlify.app/
 # Data Gators Calendars
 
-## [!Main Calendar:](https://calendar.google.com/calendar/u/0/r?cid=Y19lOWY2YjRmZGU3ZjQ5MWZmZjI3NjdjZGJhOGY3N2ZlMmE5MjQxZTViYmFhNDU4NDFkNDAzODI5MmNjMWY3MWZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
+## ![Main Calendar:](https://calendar.google.com/calendar/u/0/r?cid=Y19lOWY2YjRmZGU3ZjQ5MWZmZjI3NjdjZGJhOGY3N2ZlMmE5MjQxZTViYmFhNDU4NDFkNDAzODI5MmNjMWY3MWZhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
 - The below links are used for scheduling appointments, refer to the calendar above to compare with your schedule to determine availability.
 
 ## Alish (TH 15:00-17:00 EST): https://calendar.app.google/fAYJ55kZqyUbdUMz6
