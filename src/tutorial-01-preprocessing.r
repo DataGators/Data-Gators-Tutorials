@@ -12,7 +12,7 @@ if (!require(ggplot2)) {
     library(ggplot2)
 }
 
-# TODO: Load the tutorial dataset from the data folder
+# TODO: Load the tutorial dataset from the data folder.
 # Once you successfully load in this dataset, you can
 # use it in place of the iris dataset. Just make sure
 # you replace all isntances of the iris dataset so you
