@@ -23,8 +23,8 @@ Make sure you have the following installed on your computer:
 ### Repository Set-Up
 
 1. Clone the repository to your local machine using the following link: [Data Gators Tutorial 1: Data Loading and Pre-Processing]()
-2. Open the repository in RStudio
-3. Run the code in the `tutorial-01-preprocessing.r` file to get started with the tutorials. Be sure to read the comments to learn more about the code. And don't be afraid to make your own changes to test out the code and see how it affects the code!
+2. Open the repository in RStudio (you can also use VSCode if you like).
+3. Run the code in the `tutorial-01-preprocessing.r` file to get started with the tutorial(s). Be sure to read the comments to learn more about the code. And don't be afraid to make your own changes to test out the code and see how it affects the code!
 
 # Data Gators Website
 - https://datagators.netlify.app/
