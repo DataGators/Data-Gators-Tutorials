@@ -40,5 +40,5 @@ Below are the hours of our lovely Data Gators.
 ## Alish (TH 15:00-17:00 EST)
 ## Danny (W 15:00-17:00 EST)
 ## Katie (M 12:00-14:00 EST)
-## Luke (11:00AM-2:00PM EST) 
-## Orion (9:00-11:00AM EST)
+## Luke (TH 11:00AM-2:00PM EST) 
+## Orion (TH 9:00-11:00AM EST)
